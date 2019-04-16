@@ -10,8 +10,7 @@ link : https://myaccount.google.com/lesssecureapps
 ###########################################################
 Report issues here : 
 
-https://github.com/NorthX44/gcrime/issues
-
+https://github.com/INorthX/gdead/issues
 
 
 
