@@ -80,4 +80,6 @@ for password in passwfile:
                 print(BLUE)
                 print("\033[1;31;40m[!] \033[1;33;48mFAILED : ") 
                 print(password)
-             
+       except KeyboardInterrupt:
+                print("\nCanceled by user") 
+                exit()      
